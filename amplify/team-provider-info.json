@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "equipmentmanagera9f726db": {}
+      },
+      "api": {
+        "equipmentmanager": {}
       }
     }
   }
