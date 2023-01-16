@@ -96,7 +96,7 @@ const App = ({ signOut }) => {
             style={{ alignSelf: "end" }}
           />
           <Button type="submit" variation="primary">
-            Create Note
+            Submit
           </Button>
         </Flex>
       </View>
@@ -119,7 +119,7 @@ const App = ({ signOut }) => {
               style={{ width: 400 }}
             />
             <Button variation="link" onClick={() => deleteNote(note)}>
-              Delete note
+              Delete Laptop
             </Button>
           </Flex>
         ))}
